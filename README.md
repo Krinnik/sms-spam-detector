@@ -22,7 +22,7 @@ This project demonstrates a simple SMS text classification solution that uses a 
 
 ## Usage
 
-Once the Gradio application is launched, a local URL will be provided. Open this URL in your web browser. You will be presented with a simple interface where you can:
+Once the Gradio application is launched, a local and public URL will be provided. Open either URL in your web browser, or simply run it from under the cell in the notebook. You will be presented with a simple interface where you can:
 * NOTE: If the app won't create the sharable link, check Windows Security Protection History and allow the app.
 1.  Enter an SMS text message in the input field.
 2.  The application will automatically send the text to the trained model for classification.
